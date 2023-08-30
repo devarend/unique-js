@@ -1,0 +1,22 @@
+{
+  "name": "unique-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unique.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devarend/unique-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devarend/unique-js/issues"
+  },
+  "homepage": "https://github.com/devarend/unique-js#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
